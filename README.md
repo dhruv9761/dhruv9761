@@ -54,28 +54,6 @@ Life's confusing me and i am trying to confuse life;
 
 ---
 
-## 🎯 My Current Focus
-
-| Area | Goal |
-|---|---|
-| Java | Strong Core Java fundamentals |
-| DSA | Complete Striver 180 |
-| Backend | Java + Spring Boot |
-| Database | SQL and MySQL |
-| Problem Solving | Consistent LeetCode practice |
-| Projects | Build practical backend applications |
-
----
-
-## 🌱 A Little More About Me
-
-- 💡 I believe small improvements compound into big results.
-- 🧩 I enjoy breaking complex problems into smaller pieces.
-- ☕ Java, problem-solving and continuous learning keep me going.
-- 🚀 Always looking forward to learning something new.
-
----
-
 <p align="center">
   <b>One problem at a time. One concept at a time. Better every day. 🚀</b>
 </p>
