@@ -5,7 +5,7 @@
 
 I enjoy tackling problems, learning how things work, and building things with code.
 
-Currently focused on strengthening my Java fundamentals, mastering Data Structures & Algorithms, and developing my skills in backend engineering.
+//Currently focused on strengthening my Java fundamentals, mastering Data Structures & Algorithms, and developing my skills in backend engineering.
 
 Life's confusing me and i am trying to confuse life;
 
