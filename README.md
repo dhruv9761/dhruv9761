@@ -23,12 +23,6 @@ Life's confusing me and i am trying to confuse life;
 
 ---
 
-## 🧩 LeetCode Journey
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/dhruv9761?theme=dark&font=Baloo_2)](https://leetcode.com/u/dhruv9761/)
-
-### 📅 LeetCode Activity Heatmap
-
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/dhruv9761?ext=heatmap&theme=dark&font=Baloo_2)
 
 [![LeetCode Profile](https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruv9761/)
@@ -47,12 +41,6 @@ Life's confusing me and i am trying to confuse life;
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dhruv9761&theme=tokyonight&hide_border=true" />
 </p>
-
-### 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruv9761&theme=tokyo-night&hide_border=true&area=true)
-
----
 
 <p align="center">
   <b>One problem at a time. One concept at a time. Better every day. 🚀</b>
